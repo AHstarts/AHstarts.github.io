@@ -1,4 +1,4 @@
-## Welcome 欢迎来到HMCL我的世界生存建筑服务器介绍网站
+## Welcome to this
 
 You can use the [editor on GitHub](https://github.com/AHstarts/AHstarts.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
