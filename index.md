@@ -1,37 +1,35 @@
-## Welcome to this 我的世界服务器网站
+## Welcome 欢迎来到我的世界服务器网站
 
-You can use the [editor on GitHub](https://github.com/AHstarts/AHstarts.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+这是我的哔哩哔哩 [哔哩哔哩 一只待在水里的哈鱼](https://space.bilibili.com/620721416) 希望大家能关注一下，新人UP.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我们的QQ群（欢迎大家进群交流），不排斥所有人，除非你喜欢找茬，希望我们能和善玩耍！！！Q：599942970
 
-### Markdown
+### 关于我们
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们大家都是上学的，服务器一时半会是开不了的，所以，我们暑假见！
 
-```markdown
-Syntax highlighted code block
+```公告栏
+不定时更新！！！
 
-# Header 1
-## Header 2
-### Header 3
+# 服务器
+## 我们的事
+### 所有人的事
 
-- Bulleted
-- List
+- 服务器存档保存不当，意外丢失，已使用备用存档，进入安全模式
+- （腐竹の道歉：我错了，别骂了）
 
-1. Numbered
-2. List
+1. 【大事件】我们因为学业问题无法前进，希望大家能在暑假见面，感谢有你
+2. 祝福大家学业有成
 
-**Bold** and _Italic_ and `Code` text
+“如需购买地皮与建筑，请加VX”
 
-[Link](url) and ![Image](src)
+服务器暂时不支持20人模式，否则999ms
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+再说一次，我滴哔哩哔哩 [待在水里的一只哈鱼](https://space.bilibili.com/620721416).
 
-### Jekyll Themes
+### 我们暑假见
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AHstarts/AHstarts.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--by github
